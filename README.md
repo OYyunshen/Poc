@@ -1,2 +1,0 @@
-# Poc
-pocs for cve
